@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bands</title>
+</head>
+
+<style>
+#in3 {
+      color: blue;
+      background-color: red;
+      text-align: center;
+      font-size: 50px;
+}
+
+#rt4 {
+      font-size: 45px;
+      text-align: center;
+      color: red;
+      background-color; blue;
+}
+
+.p09 {
+      text-align:center;
+      font-size:30px;
+      color: green;
+}
+
+body {
+      background-color: blue;
+}
+</style>
+
+
+<body>
+<h1 id="in3"><strong><u>WELCOME MUSIC LOVERS</u></strong></h1>
+
+<h2 id="rt4">Some of my favorite bands</h2>
+<h3 class="p09">1. Twenty one pilots</h3>
+
+<div style="text-align:center;">
+<a href="file:///C:/Users/pragnesh111/Desktop/HTML%20coding/Twenty%20one%20pilots%20connection.html"><button>Click to go to my Twenty One Pilots website</button></a>
+</div>
+</body>
+
+</html>
